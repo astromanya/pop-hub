@@ -14,3 +14,7 @@ obj/
 # Hassas olabilecek dosyalar
 *.env
 secrets.*
+
+# Inno Setup kurulum dosyalarý (yalnýzca yerelde)
+*.iss
+DisplayDock/Installer/build-installer.ps1
