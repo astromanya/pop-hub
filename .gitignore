@@ -1,0 +1,16 @@
+# Derleme çıktıları (makineye özel yollar, kullanıcı adı içerir)
+bin/
+obj/
+*.user
+.vs/
+
+# Paketler / arşivler
+*.zip
+*.exe
+*.msix
+*.pfx
+*.snk
+
+# Hassas olabilecek dosyalar
+*.env
+secrets.*
